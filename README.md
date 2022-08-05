@@ -1,6 +1,7 @@
 # test_circle_menu
 
-A new Flutter project.
+Answer for stackoverflow:
+https://stackoverflow.com/questions/73224991/slicing-a-circular-container-in-which-each-slice-behaves-like-a-tab-in-flutter/73237664#73237664
 
 ## Getting Started
 
